@@ -41,7 +41,7 @@
 
   ## Link de vídeo demonstração
 
-  <a href="https://youtu.be/7E-7MBKEkHc">Clique aqui</a> para ter acesso ao vídeo de demonstração.
+  <a href="https://youtu.be/7E-7MBKEkHc" target="_blank">Clique aqui</a> para ter acesso ao vídeo de demonstração.
 
   
 
